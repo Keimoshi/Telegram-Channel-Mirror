@@ -1,6 +1,6 @@
 // Custom pathname for the upstream website.
-const channel_name = 'https://t.me/jileyuan51'
-const host_name = 'telegram-channel-mirror.pages.dev'
+const channel_name = 'xiuchedadui'
+const host_name = 'https://t.me/jileyuan51'
 const icon_url = 'https://image.idealclover.cn/blog/assets/icon.png'
 
 const upstream_me = 't.me'
