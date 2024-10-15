@@ -1,5 +1,5 @@
 // Custom pathname for the upstream website.
-const channel_name = 'xiuchedadui'
+const channel_name = 'jileyuan51'
 const host_name = 'xiuchedadui.cc'
 const icon_url = 'https://image.idealclover.cn/blog/assets/icon.png'
 
